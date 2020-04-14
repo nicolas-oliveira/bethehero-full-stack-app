@@ -16,7 +16,7 @@ module.exports = {
                 'ongs.name',
                 'ongs.email',
                 'ongs.whatsapp',
-                'ongs.ciy', 
+                'ongs.city', 
                 'ongs.uf'
             ]);
             // antes era apenas: .select('*');
