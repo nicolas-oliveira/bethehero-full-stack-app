@@ -15,11 +15,11 @@ describe('ONG', () => {
         const response = await request(app)
             .post('/ongs')
             .send({
-            	name: "Dev Test Jean",
+                name: "Cachorros e CIA",
                 email: "nicolasm15@hotmail.com.br",
-                whatsapp: "3599361184",
-                city: "Carmo do Rio Claro",
-                uf: "PP"   
+                whatsapp: "3511111111",
+                city: "Rio de Janeiro",
+                uf: "RJ"
             });
             console.log(response.body);
     });
