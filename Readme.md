@@ -10,6 +10,8 @@
 [![License](https://badgen.net/github/license/nicolas-oliveira/bethehero)](./LICENSE)
 ![Release](https://badgen.net/github/release/nicolas-oliveira/bethehero)
 
+<hr>
+
 Este é um protótipo de uma aplicação full stack para divulgação de organização comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
 Feito e baseado na semana Oministack 11.0 da RocketSeat.
 
@@ -20,12 +22,12 @@ Esta aplicação foi feita com a intenção de mostar que há possibilidades de 
 ## Documentação
 
 Como este repositório é feita para o aprendizado, criei uma documentação detalhada tentando explicar quase todos os pontos levantados, assim como, os passos para reproduzir as tenologias usadas. Espero que seja esclarecedor!
-<br><br>
-[Inicialização](#)<br>
-[Backend com Node.js](#)<br>
-[Front-end com React](#)<br>
-[Mobile com React-native](#)<br>
-[Funcionalidades Avançadas](#)<br>
+<br>
+- [Inicialização](#)<br>
+- [Backend com Node.js](https://gist.github.com/nicolas-oliveira/82b3ea113f63bea16980afc7cc950d7e)<br>
+- [Front-end com React](https://gist.github.com/nicolas-oliveira/995dc23e41c34b109e984d7dea52c66f)<br>
+- [Mobile com React-native](https://gist.github.com/nicolas-oliveira/59877e5d30ffc8fdf60c8313d8541663)<br>
+- [Funcionalidades Avançadas](https://gist.github.com/nicolas-oliveira/82bfe90e64cc2ee9a95c61949e060525)<br>
 
 ## Começando
 
