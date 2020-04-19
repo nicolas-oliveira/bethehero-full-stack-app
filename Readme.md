@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/bethehero.png" width="400px">
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/bethehero.png" width="200px">
 </h1>
 
 # Bem Vindo/a ao BeTheHero!
