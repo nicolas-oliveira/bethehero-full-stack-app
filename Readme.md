@@ -17,7 +17,7 @@
 [![Supertest](https://badgen.net/badge/Supertest/v4.0.2/red)](https://www.npmjs.com/package/supertest)
 <hr>
 
-Este é um protótipo de uma aplicação full stack para divulgação de organização comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
+Este é um protótipo de uma aplicação full stack para divulgação de organizações comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
 Feito e baseado na semana Oministack 11.0 da RocketSeat.
 
 ## Porque?
