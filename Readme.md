@@ -8,8 +8,13 @@
 [![Commits](https://badgen.net/github/commits/nicolas-oliveira/bethehero)](https://github.com/nicolas-oliveira/bethehero/commits/)
 [![Last Commit](https://badgen.net/github/last-commit/nicolas-oliveira/bethehero)](https://github.com/nicolas-oliveira/bethehero/commits/)
 [![License](https://badgen.net/github/license/nicolas-oliveira/bethehero)](./LICENSE)
-![Release](https://badgen.net/github/release/nicolas-oliveira/bethehero)
-
+[![Release](https://badgen.net/github/release/nicolas-oliveira/bethehero)](#)
+[![React](https://badgen.net/badge/React/v16.13.1/orange)](https://reactjs.org)
+[![React Native](https://badgen.net/badge/React-native/v5.1.5/cyan)](https://reactnative.dev)
+[![Knex](https://badgen.net/badge/Knex/v0.20.13/pink)](http://knexjs.org)
+[![Celebrate](https://badgen.net/badge/Celebrate/v12.1.0/green)](https://github.com/arb/celebrate)
+[![Jest](https://badgen.net/badge/Jest/v25.3.0/green)](https://jestjs.io)
+[![Supertest](https://badgen.net/badge/Supertest/v4.0.2/red)](https://www.npmjs.com/package/supertest)
 <hr>
 
 Este é um protótipo de uma aplicação full stack para divulgação de organização comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
