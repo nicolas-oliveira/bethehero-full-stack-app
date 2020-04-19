@@ -15,18 +15,29 @@
 [![Celebrate](https://badgen.net/badge/Celebrate/v12.1.0/green)](https://github.com/arb/celebrate)
 [![Jest](https://badgen.net/badge/Jest/v25.3.0/green)](https://jestjs.io)
 [![Supertest](https://badgen.net/badge/Supertest/v4.0.2/red)](https://www.npmjs.com/package/supertest)
+
 <hr>
 
-Este é um protótipo de uma aplicação full stack para divulgação de organizações comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
+Este é um protótipo de uma aplicação full stack para divulgação de organização comunitárias, com cadastros de casos, linkagem com e-mail e whatsapp, possibilitando que as mesmas alcancem mais doadores para suas causas.
 Feito e baseado na semana Oministack 11.0 da RocketSeat.
 
 ## Porque?
 
 Esta aplicação foi feita com a intenção de mostar que há possibilidades de tornar o mundo melhor através da tecnologia com simples ideias que podem ser o tipping point de muitas pessoas. 
 
+<div align="center">
+<h3>Tela de cadastro das ONG's</h3>
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/login.gif" width="600px">
+</div>
+<hr>
+<div align="center">
+<h3>Tela de cadastro dos casos</h3>
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/Casos.gif" width="600px">
+</div>
+
 ## Documentação
 
-Como este repositório é feita para o aprendizado, criei uma documentação detalhada tentando explicar quase todos os pontos levantados, assim como, os passos para reproduzir as tenologias usadas. Espero que seja esclarecedor!
+Como este repositório é feito para o aprendizado, criei uma documentação detalhada tentando explicar quase todos os pontos levantados, assim como, os passos para reproduzir as tenologias usadas. Espero que seja esclarecedor!
 <br>
 - [Inicialização](#)<br>
 - [Backend com Node.js](https://gist.github.com/nicolas-oliveira/82b3ea113f63bea16980afc7cc950d7e)<br>
