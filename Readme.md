@@ -33,15 +33,14 @@ Feito e baseado na semana Oministack 11.0 da RocketSeat.</p>
 
 Esta aplicação foi feita com a intenção de mostar que há possibilidades de tornar o mundo melhor através da tecnologia com simples ideias que podem ser o tipping point de muitas pessoas. 
 
-<div align="center">
-<h3>Tela de cadastro das ONG's</h3>
+<h1 align="center">
+<p>Tela de cadastro das ONG's</p>
 <img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/login.gif" width="600px">
-</div>
-<hr>
-<div align="center">
-<h3>Tela de cadastro dos casos</h3>
+</h1>
+<h1 align="center">
+<p>Tela de cadastro dos casos</p>
 <img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/Casos.gif" width="600px">
-</div>
+</h1>
 
 ## Documentação
 
