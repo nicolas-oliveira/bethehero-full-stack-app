@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/bethehero.png" width="300px">
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/bethehero/master/.github/bethehero.png" width="300px">
 </div>
 
 <h3 align="center">Crie casos e aproxime os doadores do seu projeto comunitário</h3>
@@ -35,11 +35,11 @@ Esta aplicação foi feita com a intenção de mostar que há possibilidades de 
 
 <h1 align="center">
 <p>Tela de cadastro das ONG's</p>
-<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/login.gif" width="600px">
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/bethehero/master/.github/login.gif" width="600px">
 </h1>
 <h1 align="center">
 <p>Tela de cadastro dos casos</p>
-<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/images/master/bethehero/Casos.gif" width="600px">
+<img alt="" src="https://raw.githubusercontent.com/nicolas-oliveira/bethehero/master/.github/Casos.gif" width="600px">
 </h1>
 
 ## Documentação
