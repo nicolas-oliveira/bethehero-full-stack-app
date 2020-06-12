@@ -75,10 +75,6 @@ Para instalar a aplicação clone este repositório em sua máquina local e rode
 $ npm install
 ```
 
-## Autores
-
-* **Nicolas Oliveira** - *Iniciativa* - [Nicolas Oliveira](https://github.com/nicolas-oliveira/) - nicolas.olveira.ug@gmail.com
-
 ## Licença
 
 Este projeto é licenciado pela MIT License -  veja em [LICENSE](./LICENSE) para detalhes
